@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "vimrc is being Copied to the Home Directory."
-cp vim-config/.vimrc ~/.vimrc
+cp vim-config/.vimrc /home/rhollis/.vimrc
 
 echo "Looking for Vundle."
 
