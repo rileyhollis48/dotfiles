@@ -2,6 +2,8 @@
 
 <h1>AI Used as Assusatnce:</h1> ChatGPT Pro 5.2
 
+<h2>All files are located inside of homefiles</h2>
+
 <h2>Worthwhile Notes and Prompts</h2>
 - AI was used for two portions of this assignment. 
   1. To ensure the syntax was correct for my .bash_aliasas file, as well as ensure its correctness. 
