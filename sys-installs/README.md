@@ -57,3 +57,5 @@ Description:
 
  <h3>Prompts used for AI</h3>
 1.  Script Conversion: Take my ubuntu script and convert it to oracle 9 language. Match each section up with the Ubuntu script. It must perform the same logically.
+
+
