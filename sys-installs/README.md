@@ -2,6 +2,7 @@
 <br>
 IMPORANT NOTE: I spoke with you briefly on 4/6 about how I use Oracle 9 as my distro, I created both an Oracle 9 version of the script as well as an Ubuntu version. This document will include screenshots of both scripts as well as the conversion from ubuntu to oracle. Screenshots will show the tests being successful.
 <br>
+<br>
 AI USED: For this assignment I utilized Chat GPT Pro (I will annotate parts it was used) 
 <br>
 
