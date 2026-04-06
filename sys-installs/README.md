@@ -30,7 +30,13 @@ Description: (The shell of this script was created by AI)
 <h3>Prompts used for AI</h3>
 1. Shell Prompt: Lets create a script template, I am using Ubuntu, This script is going to be for installing software. Keep it simple, clean, and easy to build on.
 <br>
-2. Root or Sudo Prompt:
+2. Root or Sudo Prompt: Give me the line and EUID to check if a user is running root, this will be used in my script.
+<br>
+3. APT installed: Write me a if then stateement to check if APT is installed on thr system 
+<br>
+4. Silent Install: Whats the add on to make an install silent in script installing 
+<br>
+5. PPA Repository: Im unsure how to add a software into the PPA Repository, can you please give me the command to add to a script thatll perform this
 
 
 <h2>Converted Oracle 9 Script and Description</h2>
@@ -48,4 +54,6 @@ Description: (The shell of this script was created by AI)
 Description: 
 - The oracle 9 version of the script functions fundamentally the exact same as the Ubuntu Script
 - Differences of Note: does not add this to a PPA Repository (not needed), Uses DNF instad of APT
-- NOTE: 
+
+ <h3>Prompts used for AI</h3>
+1.  Script Conversion: Take my ubuntu script and convert it to oracle 9 language. Match each section up with the Ubuntu script. It must perform the same logically.
