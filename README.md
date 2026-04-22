@@ -10,13 +10,13 @@ This dotfiles collection includes the different tasks I have completed related t
 <br>
 - Bash configuration files
 <br>
-- `.bash_aliases`
+- .bash_aliases
 <br>
 - shell scripts
 <br>
 - task README files
 <br>
-- other files kept in the `homefiles` directory
+- other files kept in the homefiles directory
 <br>
 Some of the files are meant to actually be used in a Linux environment, and some are there more to show the work I completed for the assignments.
 
